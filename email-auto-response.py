@@ -14,7 +14,6 @@ import smtplib
 import poplib
 
 # 输入邮件地址, 口令和POP3服务器地址:
-
 email = input('Email: ')
 password = input('Password: ')
 pop3_server = input('POP3 server: ')
